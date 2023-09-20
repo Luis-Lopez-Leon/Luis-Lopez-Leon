@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Associate Application Developer - Java & Web Technologies at IBM Consulting in the Custom & Exponential Tech practice. I have a big curiosity of how software works and enjoy learning new technologies.<br><br>🔭 
+I am an Associate Java Application Developer - Java & Web Technologies at IBM Consulting in the Custom & Exponential Tech practice. I have a big curiosity of how software works and enjoy learning new technologies.<br><br>🔭 
 
 
 ## 🌐 Socials:
