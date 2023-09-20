@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a senior student currently finalizing bachelor’s diploma in Computer Science looking for Software developer or Software engineering<br>jobs where I can apply my fresh and newly acquired skills into new ideas, learn from others and collaborate with a great team. Some of my<br>skills include multiple knowledge of programming languages such as C++, Java, and learning Python, JavaScript,HTML, CSS. I am<br>working on personal projects to add to my resume and portfolio here on GitHub. I am also working on my personal Linux based home labs for hands-on<br>experience with different Linux Distributions and servers.<br><br>🔭 
+I am an Associate Application Developer - Java & Web Technologies at IBM Consulting in the Custom & Exponential Tech practice. I have a big curiosity of how software works and enjoy learning new technologies.<br><br>🔭 
 
 
 ## 🌐 Socials:
